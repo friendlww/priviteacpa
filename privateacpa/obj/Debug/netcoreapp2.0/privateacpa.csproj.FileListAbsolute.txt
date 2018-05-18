@@ -9,3 +9,14 @@ D:\Git\priviteacpa\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.A
 D:\Git\priviteacpa\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.AssemblyInfo.cs
 D:\Git\priviteacpa\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.dll
 D:\Git\priviteacpa\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.pdb
+D:\Git\privateacpa\privateacpa\bin\Debug\netcoreapp2.0\privateacpa.deps.json
+D:\Git\privateacpa\privateacpa\bin\Debug\netcoreapp2.0\privateacpa.runtimeconfig.json
+D:\Git\privateacpa\privateacpa\bin\Debug\netcoreapp2.0\privateacpa.runtimeconfig.dev.json
+D:\Git\privateacpa\privateacpa\bin\Debug\netcoreapp2.0\privateacpa.dll
+D:\Git\privateacpa\privateacpa\bin\Debug\netcoreapp2.0\privateacpa.pdb
+D:\Git\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.csproj.CoreCompileInputs.cache
+D:\Git\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.AssemblyInfoInputs.cache
+D:\Git\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.AssemblyInfo.cs
+D:\Git\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.dll
+D:\Git\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.pdb
+D:\Git\privateacpa\privateacpa\obj\Debug\netcoreapp2.0\privateacpa.csprojAssemblyReference.cache
