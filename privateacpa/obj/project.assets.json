@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Git\\priviteacpa\\privateacpa\\privateacpa\\privateacpa.csproj",
+      "projectUniqueName": "D:\\Git\\privateacpa\\privateacpa\\privateacpa.csproj",
       "projectName": "privateacpa",
-      "projectPath": "D:\\Git\\priviteacpa\\privateacpa\\privateacpa\\privateacpa.csproj",
+      "projectPath": "D:\\Git\\privateacpa\\privateacpa\\privateacpa.csproj",
       "packagesPath": "C:\\Users\\liuww\\.nuget\\packages\\",
-      "outputPath": "D:\\Git\\priviteacpa\\privateacpa\\privateacpa\\obj\\",
+      "outputPath": "D:\\Git\\privateacpa\\privateacpa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
